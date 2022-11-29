@@ -179,6 +179,7 @@ coverY: 0
 54. [We Work Remotely](https://weworkremotely.com)
 55. [Workana](https://www.workana.com) Freelance Job Board in Spanish and Portuguese
 56. [Working Nomads](https://www.workingnomads.co/jobs)
+57. [RemoteScout](https://remotescout.ch) - Remote and hybrid jobs
 
 ### Job boards aggregators
 
